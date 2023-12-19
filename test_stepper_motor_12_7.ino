@@ -1,7 +1,3 @@
-/*
-Adafruit Arduino - Lesson 16. Stepper
-*/
-
 #include <Unistep2.h>
 #include "SevSeg.h"
 SevSeg sevseg; //Initiate a seven segment controller object
